@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Sweet match game for wearables"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Sweet Match entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Sweet Match"
+    },
+    {
+      "name": "vibrate_reason",
+      "value": "Haptic feedback when candies match"
+    }
+  ]
+}
